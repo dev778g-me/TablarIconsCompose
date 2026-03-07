@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=TablarIconsCompose
+PRODUCT_BUNDLE_IDENTIFIER=com.dev.tablaricons_compose.TablarIconsCompose$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
