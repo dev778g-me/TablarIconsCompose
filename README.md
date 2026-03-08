@@ -24,7 +24,7 @@ The API is simple, lightweight, and designed to feel natural for Compose develop
 Add the dependency to your `build.gradle.kts`:
 
 ```kotlin
-implementation("io.github.dev778g-me:tablaricon-compose:1.0.2")
+implementation("io.github.dev778g-me:tablarIcon-compose:1.0.2")
 ```
 
 Sync your project after adding the dependency.
